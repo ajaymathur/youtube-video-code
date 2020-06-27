@@ -1,6 +1,6 @@
 # Installing Postgres on Mac
 
-## Quicklinks
+## Resources
 
 <table>
   <tr>
@@ -35,4 +35,4 @@ In this video we will go through a really easy way to install Postgres in Mac.
 
 ## Video
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/MdyJ5yLp9yM/0.jpg)](https://www.youtube.com/watch?v=MdyJ5yLp9yM)
+[![Installing postgres on MacOS](https://img.youtube.com/vi/MdyJ5yLp9yM/0.jpg)](https://www.youtube.com/watch?v=MdyJ5yLp9yM)
