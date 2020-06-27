@@ -1,0 +1,19 @@
+{
+  "name": "03-koa-server-with-postgres",
+  "version": "1.0.0",
+  "description": "## Resources",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.0.1",
+    "pg": "^8.2.1"
+  }
+}
